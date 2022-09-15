@@ -1,2 +1,2 @@
-# C-
+# C++
 Cursos de este lenguaje
