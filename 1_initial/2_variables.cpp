@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    string nombre = "Arnol";
+    const string nombre = "Arnol";
     short edad{33};
     double salario;
     cout << "Introduce el salario del empleado: ";
